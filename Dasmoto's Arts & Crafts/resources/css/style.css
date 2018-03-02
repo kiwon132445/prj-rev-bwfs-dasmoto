@@ -1,0 +1,20 @@
+/*Dasmoto's Arts & Crafts*/
+h1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font:100px Helvetica;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+}
+/*Brushes,Frames,Paint*/
+h2 {
+  font:32px Helvetica;
+  font-weight: bold;
+  color: white;
+}
+/**/
+#prices {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
